@@ -1,0 +1,3 @@
+norenode_modules
+.env
+*.log
